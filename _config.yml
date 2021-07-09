@@ -20,6 +20,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "papers.md", title: Papers, icon: scroll }
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: About, icon: user, file: "index.md"}
+  - {file: "papers.md", title: Papers, icon: scroll }
   - {title: Mail, icon: envelope, url: "mailto:giacomo.tendas@mq.edu.au"}
   - {title: Github, icon: github, url: "https://github.com/gtendas"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
