@@ -2,14 +2,9 @@
 layout: page
 title: "About me"
 ---
-.width {
-    width: 560px;
-    margin-left: auto;
-    margin-right: auto;
-    border: 3px solid #73AD21;
-}
 
-<div class="width"> ![image](/assets/picture.jpg){:class="img-responsive"} </div>
+
+[image](/assets/picture.jpg){:class="img-responsive"} 
 
 
 
