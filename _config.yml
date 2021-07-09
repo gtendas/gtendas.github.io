@@ -1,6 +1,6 @@
 title: "Giacomo Tendas"
 author: "Giacomo Tendas"
-description: "Macquarie University, Sydney"
+description: "Macquarie University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,8 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "index.html", title: "About me", icon: home}
+  - {file: "CV.pdf", title: CV}
+  - {file: "README.md", title: "Publications"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
