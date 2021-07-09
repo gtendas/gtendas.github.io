@@ -7,15 +7,15 @@ title: "Papers"
 
 **Education**
   
-*2017* - Master degree in Mathematics, Università di Pisa.
+1) *2017* - Master degree in Mathematics, Università di Pisa.
     * Supervisors: Andreas Blass and Mauro Di Nasso;
     * Thesis: [Strongly preserved formulas in topoi](https://etd.adm.unipi.it/t/etd-11222017-094128/).
 
-*2019* - Master of Research in Pure Mathematics, Macquarie University, Sydney.
+2) *2019* - Master of Research in Pure Mathematics, Macquarie University, Sydney.
     * Supervisor: Steve Lack;
     * Thesis: [Enriched regular theories](http://hdl.handle.net/1959.14/1270426).
 
-*2019/2022* - PhD Student in Pure Mathematics, Macquarie University, Sydney.
+3) *2019/2022* - PhD Student in Pure Mathematics, Macquarie University, Sydney.
     * Supervisors: Steve Lack and Richard Garner.
 
 
