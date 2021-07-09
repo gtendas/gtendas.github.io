@@ -1,6 +1,8 @@
 ---
 layout: page
+tags: [formatting]
 title: "Publications and preprints"
+
 ---
 
 
