@@ -5,6 +5,15 @@ title: "Papers"
 
 ---
 
+
+**Publications and preprints**
+
+1. (with Steve Lack) [Enriched regular theories](https://doi.org/10.1016/j.jpaa.2019.106268), *Journal of Pure and Applied Algebra*; also available [here](https://arxiv.org/abs/1907.02301). 
+
+2. (with Branko Nikolić and Ross Street) Cauchy completeness for DG-categories, *preprint*; available [here](https://arxiv.org/abs/2012.10157). 
+
+
+
 **Education**
   
 1. Master degree in Mathematics, Università di Pisa - *2017*.
@@ -17,12 +26,3 @@ title: "Papers"
 
 3. PhD Student in Pure Mathematics, Macquarie University, Sydney - *2019/2022*.
     * Supervisors: Steve Lack and Richard Garner.
-
-
-
-
-**Publications and preprints**
-
-1. (with Steve Lack) [Enriched regular theories](https://doi.org/10.1016/j.jpaa.2019.106268), *Journal of Pure and Applied Algebra*; also available [here](https://arxiv.org/abs/1907.02301). 
-
-2. (with Branko Nikolić and Ross Street) Cauchy completeness for DG-categories, *preprint*; available [here](https://arxiv.org/abs/2012.10157). 
