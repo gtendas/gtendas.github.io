@@ -7,4 +7,3 @@ I'm a PhD student at [Macquarie University](https://mq.edu.au) under the supervi
 
 This webpage is under construction. 
 
-# you can get my CV [here](gtendas.github.io/pdfs/CV_Eng.pdf).
