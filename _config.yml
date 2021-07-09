@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Talks, icon: desktop, file: "talks.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:giacomo.tendas@mq.edu.au"}
+  - {title: *Mail*, icon: envelope, url: "mailto:giacomo.tendas@mq.edu.au"}
   - {title: MQ page, icon: university, url: "https://researchers.mq.edu.au/en/persons/giacomo-tendas"}
   - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0003-1001-6690"}
   - {title: Scholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=VEFYpBMAAAAJ&hl=it"}
