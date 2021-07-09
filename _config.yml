@@ -1,6 +1,6 @@
 title: "Giacomo Tendas"
 author: "Giacomo Tendas"
-description: "email: giacomo.tendas@mq.edu.au"
+description: "Giacomo Tendas"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", icon: home}
-  - {file: "papers.md", title: "Papers" }
+  - {file: "index.md", icon: user}
+  - {file: "papers.md", title: "Papers", icon: scroll }
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:giacomo.tendas@mq.edu.au"}
