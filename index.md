@@ -1,5 +1,6 @@
 ---
 layout: page
+tags: [formatting]
 title: "About me"
 ---
 
