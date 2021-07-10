@@ -1,7 +1,7 @@
 ---
 layout: page
 tags: [formatting]
-
+title: "Talks"
 ---
 
 
@@ -13,6 +13,6 @@ tags: [formatting]
 * [*Equivalent characterizations of accessible V-categories*](/pdfs/ItaCaFest.pdf) - ItaCa Fest 2020 XMAS EDITION (online), 16 December 2020 ([video](https://www.youtube.com/watch?v=uJrJasi7Nbk))
 
 
-**Australia Category Seminar**
+**Australian Category Seminar**
 
-[Here](http://web.science.mq.edu.au/groups/coact/seminar/cgi-bin/speaker-info.cgi?name=Giacomo+Tendas) is the list of my talks at the Australia Category Seminar.
+[Here](http://web.science.mq.edu.au/groups/coact/seminar/cgi-bin/speaker-info.cgi?name=Giacomo+Tendas) is the list of my talks at the Australian Category Seminar.
