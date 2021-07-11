@@ -1,7 +1,7 @@
 ---
 layout: page
 tags: [formatting]
-title: "Clock"
+title: " "
 ---
 
 
