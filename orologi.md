@@ -7,8 +7,7 @@ title: "Clocks"
 
 <a ><img src="http://gtendas.github.io/orologi/carriage1.jpg" align="left" width="230" ></a> 
 
-<h4>autoplay, with muted</h4>
-<video autoplay muted loop>
+<video autoplay muted controls>
   <source src="http://gtendas.github.io/orologi/carriage2.mp4" type="video/mp4">
   <p>Your browser does not support the video element.</p>
 </video>
