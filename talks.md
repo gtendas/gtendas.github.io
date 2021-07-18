@@ -16,5 +16,5 @@ title: "Talks"
 **Australian Category Seminar**
 
 [Here](http://web.science.mq.edu.au/groups/coact/seminar/cgi-bin/speaker-info.cgi?name=Giacomo+Tendas) is the list of my talks at the Australian Category Seminar, and below are a couple of talks I gave at the Junior Seminar (organized by students):
-* Accessible categories made accessible, 30 March 2021.
-* Accessible categories made sound, 12 April 2021.
+* [Accessible categories made accessible](/pdfs/ACMA.pdf), 30 March 2021.
+* [Accessible categories made sound](/pdfs/ACMS.pdf), 12 April 2021.
