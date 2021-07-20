@@ -12,6 +12,8 @@ title: "Papers"
 
 2. (with Branko Nikolić and Ross Street) Cauchy completeness for DG-categories, *preprint*; available [here](https://arxiv.org/abs/2012.10157). 
 
+3. (with Steve Lack) Flat vs. filtered colimits in the enriched context, *preprint*; available [here](https://arxiv.org/abs/2107.08612).
+
 
 
 **Education**
