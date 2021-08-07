@@ -8,11 +8,11 @@ title: "Papers"
 
 **Publications and preprints**
 
-1. (with Steve Lack) [Enriched regular theories](https://doi.org/10.1016/j.jpaa.2019.106268), *Journal of Pure and Applied Algebra*; also available [here](https://arxiv.org/abs/1907.02301). 
+1. (with Steve Lack) [Enriched regular theories](https://doi.org/10.1016/j.jpaa.2019.106268), *Journal of Pure and Applied Algebra* - 2020; also available [here](https://arxiv.org/abs/1907.02301). 
 
-2. (with Branko Nikolić and Ross Street) Cauchy completeness for DG-categories, *preprint*; available [here](https://arxiv.org/abs/2012.10157). 
+2. (with Branko Nikolić and Ross Street) [Cauchy completeness for DG-categories](http://www.tac.mta.ca/tac/volumes/37/28/37-28abs.html), *Theory and Applications of Categories*- 2021; also available [here](https://arxiv.org/abs/2012.10157). 
 
-3. (with Steve Lack) Flat vs. filtered colimits in the enriched context, *preprint*; available [here](https://arxiv.org/abs/2107.08612).
+3. (with Steve Lack) Flat vs. filtered colimits in the enriched context, *preprint* - 2021; available [here](https://arxiv.org/abs/2107.08612).
 
 
 
