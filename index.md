@@ -8,7 +8,7 @@ title: "About me"
 <a><img src="http://gtendas.github.io/assets/picture.jpg" align="right" width="230" ></a>
 
 
-I'm a PhD student at [Macquarie University](https://mq.edu.au) under the supervision of [Steve Lack](http://maths.mq.edu.au/~slack/).
+I'm a PhD student in mathematics at [Macquarie University](https://mq.edu.au) under the supervision of [Steve Lack](http://maths.mq.edu.au/~slack/).
 
 This webpage is under construction. 
 
