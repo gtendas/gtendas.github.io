@@ -14,6 +14,8 @@ title: "Papers"
 
 3. [Flat vs. filtered colimits in the enriched context](https://arxiv.org/abs/2107.08612) (with Steve Lack), *preprint*, 2021.
 
+4. [On continuity of accessible functors](https://arxiv.org/abs/2110.14192), *preprint*, 2021.
+
 
 
 **Education**
