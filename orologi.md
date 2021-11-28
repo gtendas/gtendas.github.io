@@ -13,3 +13,14 @@ title: "Clocks I've worked on"
 
  <a ><img src="http://gtendas.github.io/orologi/carriage2.jpg" align="center" height="240" ></a>   <a ><img src="http://gtendas.github.io/orologi/carriage2b.jpg" align="center" height="240" ></a>   
 
+* Session clock (early 20th century)
+
+<a ><img src="http://gtendas.github.io/orologi/mantle.jpg" align="center" height="240" ></a>   <a ><img src="http://gtendas.github.io/orologi/mantle1b.jpg" align="center" height="240" ></a>  
+
+* French comtoise clock (late 18th century)
+
+<a ><img src="http://gtendas.github.io/orologi/comtoise.jpg" align="center" height="240" ></a>   <a ><img src="http://gtendas.github.io/orologi/comtoise1b.jpg" align="center" height="240" ></a>  
+
+* French "pendule portique" (early 19th century)
+
+<a ><img src="http://gtendas.github.io/orologi/napoleon.jpg" align="center" height="240" ></a>  
