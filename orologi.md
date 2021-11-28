@@ -15,7 +15,7 @@ title: "Clocks I've worked on"
 
 * Session clock (early 20th century)
 
-<a ><img src="http://gtendas.github.io/orologi/mantle.jpg" align="center" width="250" ></a>   <a ><img src="http://gtendas.github.io/orologi/mantle1b.jpg" align="center" width="200" ></a>  
+<a ><img src="http://gtendas.github.io/orologi/mantle.jpg" align="center" width="250" ></a>   <a ><img src="http://gtendas.github.io/orologi/mantle1b.jpg" align="center" width="235" ></a>  
 
 * French comtoise clock (late 18th century)
 
