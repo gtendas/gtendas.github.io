@@ -6,7 +6,7 @@ title: "Clocks I've worked on"
 
 * French carriage clock (19th century)
 
-<a ><img src="http://gtendas.github.io/orologi/carriage1.jpg" align="center" width="163" ></a>   <a ><img src="http://gtendas.github.io/orologi/carriage1b.jpg" align="center" width="164" ></a>   
+<a ><img src="http://gtendas.github.io/orologi/carriage1.jpg" align="center" width="163" ></a>   <a ><img src="http://gtendas.github.io/orologi/carriage1b.jpg" align="center" width="165" ></a>   
 [before](http://gtendas.github.io/orologi/carriageold1.jpg)
 
 * American carriage clock (early 20th century)
@@ -15,7 +15,7 @@ title: "Clocks I've worked on"
 
 * Session clock (early 20th century)
 
-<a ><img src="http://gtendas.github.io/orologi/mantle.jpg" align="center" width="200" ></a>   <a ><img src="http://gtendas.github.io/orologi/mantle1b.jpg" align="center" width="163" ></a>  
+<a ><img src="http://gtendas.github.io/orologi/mantle.jpg" align="center" width="250" ></a>   <a ><img src="http://gtendas.github.io/orologi/mantle1b.jpg" align="center" width="200" ></a>  
 
 * French comtoise clock (late 18th century)
 
