@@ -4,7 +4,8 @@ tags: [formatting]
 title: "Clocks I've worked on"
 ---
 
-* French carriage clock (19th century)\\
+* French carriage clock (19th century)
+
 <a ><img src="http://gtendas.github.io/orologi/carriage1.jpg" align="center" width="183" ></a>   
 [before](http://gtendas.github.io/orologi/carriageold1.jpg)
 
