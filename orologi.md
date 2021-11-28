@@ -19,7 +19,7 @@ title: "Clocks I've worked on"
 
 * French comtoise clock (late 18th century)
 
-<a ><img src="http://gtendas.github.io/orologi/comtoise.jpg" align="center" height="240" ></a>   <a ><img src="http://gtendas.github.io/orologi/comtoise1b.jpg" align="center" height="240" ></a>  
+<a ><img src="http://gtendas.github.io/orologi/comtoise.jpg" align="center" height="240" ></a>   <a ><img src="http://gtendas.github.io/orologi/comtoiseb.jpg" align="center" height="240" ></a>  
 
 * French "pendule portique" (early 19th century)
 
