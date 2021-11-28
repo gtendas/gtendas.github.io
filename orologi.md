@@ -11,5 +11,5 @@ title: "Clocks I've worked on"
 
 * American carriage clock (early 20th century)
 
- <a ><img src="http://gtendas.github.io/orologi/carriage2.jpg" align="center" width="183" ></a>   <a ><img src="http://gtendas.github.io/orologi/carriage2b.jpg" align="center" width="183" ></a>   
+ <a ><img src="http://gtendas.github.io/orologi/carriage2.jpg" align="center" width="183" ></a>   <a ><img src="http://gtendas.github.io/orologi/carriage2b.jpg" align="center" width="153" ></a>   
 
