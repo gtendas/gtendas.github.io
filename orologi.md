@@ -29,4 +29,10 @@ title: "Clocks I've worked on"
 
 * French "pendule portique" (early 19th century)
 
-<a ><img src="http://gtendas.github.io/orologi/napoleon.jpg" align="center" width="163" ></a>  
+<a ><img src="http://gtendas.github.io/orologi/napoleon.jpg" align="center" width="263" ></a>  
+
+
+* Wall clock (early 20th century)
+
+<a ><img src="http://gtendas.github.io/orologi/pendolo1.jpg" align="center" width="270" ></a>   
+[before](http://gtendas.github.io/orologi/pendolo0ld.jpg)
