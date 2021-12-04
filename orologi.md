@@ -35,4 +35,4 @@ title: "Clocks I've worked on"
 * Wall clock (early 20th century)
 
 <a ><img src="http://gtendas.github.io/orologi/pendolo1.jpg" align="center" width="263" ></a>   
-[before](http://gtendas.github.io/orologi/pendolo0ld.jpg)
+[before](http://gtendas.github.io/orologi/pendoloold.jpg)
