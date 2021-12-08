@@ -17,7 +17,7 @@ title: "Talks"
 **Australian Category Seminar**
 
 [This](http://web.science.mq.edu.au/groups/coact/seminar/cgi-bin/speaker-info.cgi?name=Giacomo+Tendas) is the list of my talks at the Australian Category Seminar; here are some slides:
-* [Accessible categories with limits of some class ](/pdfs/AusCat-5-08-20.pdf), 5 August 2020.
+* [Accessible categories with limits of some class](/pdfs/AusCat-5-08-20.pdf), 5 August 2020.
 * [On small accessible V-categories and continuity of accessible V-functors](/pdfs/AusCat-29-09-21.pdf), 29 September 2021.
 
 Below are a couple of talks I gave at the Junior Seminar (organized by students):
