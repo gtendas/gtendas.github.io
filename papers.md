@@ -18,7 +18,7 @@ title: "Papers"
 *preprint*, 2021.
 
 4. [On continuity of accessible functors](https://arxiv.org/abs/2110.14192), <br>
-To appear on *Applied Categorical STructures*, 2022.
+To appear on *Applied Categorical Structures*, 2022.
 
 
 
