@@ -4,6 +4,10 @@ tags: [formatting]
 title: "Clocks I've worked on"
 ---
 
+* Tiny carriage clock (19th century)
+
+<a ><img src="http://gtendas.github.io/orologi/silver_carriage.jpg" align="center" width="163" ></a>   <a ><img src="http://gtendas.github.io/orologi/silver_carriage_2.jpg" align="center" width="165" ></a>   
+
 * Mantle clock (19th century)
 
 <a ><img src="http://gtendas.github.io/orologi/French1.jpg" align="center" width="270" ></a>   <a ><img src="http://gtendas.github.io/orologi/French1b.jpg" align="center" width="165" ></a>   
@@ -29,10 +33,10 @@ title: "Clocks I've worked on"
 
 * French "pendule portique" (early 19th century)
 
-<a ><img src="http://gtendas.github.io/orologi/napoleon.jpg" align="center" width="250" ></a>  
+<a ><img src="http://gtendas.github.io/orologi/napoleon.jpg" align="center" width="200" ></a>  
 
 
 * Wall clock (early 20th century)
 
-<a ><img src="http://gtendas.github.io/orologi/pendolo1.jpg" align="center" width="250" ></a>   
+<a ><img src="http://gtendas.github.io/orologi/pendolo1.jpg" align="center" width="200" ></a>   
 [before](http://gtendas.github.io/orologi/pendoloold.jpg)
