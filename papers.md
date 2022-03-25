@@ -15,7 +15,7 @@ title: "Papers"
 *Theory and Applications of Categories*, 37(28):940-963, 2021; also available as [arXiv:2012.10157](https://arxiv.org/abs/2012.10157). 
 
 3. [Flat vs. filtered colimits in the enriched context](https://arxiv.org/abs/2107.08612) (with Steve Lack), <br>
-*preprint*, 2021.
+To appear on *Advances in Mathematics*, 2022.
 
 4. [On continuity of accessible functors](https://arxiv.org/abs/2110.14192), <br>
 To appear on *Applied Categorical Structures*, 2022.
