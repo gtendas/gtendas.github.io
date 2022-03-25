@@ -1,12 +1,11 @@
 ---
 layout: page
 tags: [formatting]
-title: "Papers"
+title: "Publications and preprints"
 
 ---
 
 
-**Publications and preprints**
 
 1. [Enriched regular theories](https://doi.org/10.1016/j.jpaa.2019.106268) (with Steve Lack), <br>
 *Journal of Pure and Applied Algebra*, 226(6):106268, 2020; also available as [arXiv:1907.02301](https://arxiv.org/abs/1907.02301). 
