@@ -13,7 +13,7 @@ title: "Publications and preprints"
 2. [Cauchy completeness for DG-categories](http://www.tac.mta.ca/tac/volumes/37/28/37-28abs.html) (with Branko Nikolić and Ross Street), <br>
 *Theory and Applications of Categories*, 37(28):940-963, 2021; also available as [arXiv:2012.10157](https://arxiv.org/abs/2012.10157). 
 
-3. [Flat vs. filtered colimits in the enriched context](https://www.sciencedirect.com/science/article/pii/S0001870822001979) (with Steve Lack), <br>
+3. [Flat vs. filtered colimits in the enriched context](https://doi.org/10.1016/j.aim.2022.108381) (with Steve Lack), <br>
 *Advances in Mathematics*, Volume 404, Part A, 6 August 2022, 108381; also available as [arXiv:2107.08612](https://arxiv.org/abs/2107.08612).
 
 4. [On continuity of accessible functors](https://doi.org/10.1007/s10485-022-09677-x), <br>
