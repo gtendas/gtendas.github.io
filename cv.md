@@ -12,7 +12,7 @@ title: "Short CV"
 
 * Master of Research in Mathematics, Macquarie University, Sydney - *2018/2019*.
     * Supervisor: Steve Lack;
-    * Thesis: [Enriched regular theories](https://doi.org/10.25949/19443470.v1).
+    * Thesis: [Enriched regular theories](http://hdl.handle.net/1959.14/1270426).
 
 * Master degree in Mathematics, Università di Pisa - *2015/2017*.
     * Supervisors: Andreas Blass (principal) and Mauro Di Nasso (associate);
