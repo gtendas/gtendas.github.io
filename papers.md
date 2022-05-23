@@ -20,7 +20,7 @@ title: "Publications and preprints"
 *Applied Categorical Structures*, 10.1007/s10485-022-09677-x, 2022; also available as [arXiv:2110.14192](https://arxiv.org/abs/2110.14192).
 
 5. Virtual concepts in the theory of accessible categories, <br>
-available as [arXiv](https://arxiv.org/abs).
+*preprint*, 2022; available as [arXiv](https://arxiv.org/abs).
 
 
 
