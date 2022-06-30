@@ -7,7 +7,7 @@ title: "Short CV"
 
 
 **Education**
-* PhD Student in Mathematics, Macquarie University, Sydney - *2019/2022*.
+* PhD in Mathematics, Macquarie University, Sydney - *2019/2022*.
     * Supervisors: Steve Lack (principal) and Richard Garner (associate).
 
 * Master of Research in Mathematics, Macquarie University, Sydney - *2018/2019*.
@@ -18,7 +18,9 @@ title: "Short CV"
     * Supervisors: Andreas Blass (principal) and Mauro Di Nasso (associate);
     * Thesis: [Strongly preserved formulas in topoi](https://etd.adm.unipi.it/t/etd-11222017-094128/).
 
-
+**Events organised**
+* [Australian Category Seminar](http://web.science.mq.edu.au/groups/coact/seminar/about-auscat.html), from January 2022.
+* [Categories and Companions Symposium](http://web.science.mq.edu.au/groups/coact/seminar/CaCS2021/), June 8–12, 2021 on Zoom. 
 
 **Awards**
 
