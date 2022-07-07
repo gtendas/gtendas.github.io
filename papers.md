@@ -20,7 +20,7 @@ title: "Publications and preprints"
 *Applied Categorical Structures*, 10.1007/s10485-022-09677-x, 2022; also available as [arXiv:2110.14192](https://arxiv.org/abs/2110.14192).
 
 5. Virtual concepts in the theory of accessible categories (with Steve Lack), <br>
-*submitted*, 2022; available as [arXiv:2205.11056](https://arxiv.org/abs/2205.11056).
+*Journal of Pure and Applied Algebra*, to appear, 2022; available as [arXiv:2205.11056](https://arxiv.org/abs/2205.11056).
 
 
 
