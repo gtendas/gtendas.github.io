@@ -19,8 +19,8 @@ title: "Publications and preprints"
 4. [On continuity of accessible functors](https://doi.org/10.1007/s10485-022-09677-x), <br>
 *Applied Categorical Structures*, 10.1007/s10485-022-09677-x, 2022; also available as [arXiv:2110.14192](https://arxiv.org/abs/2110.14192).
 
-5. Virtual concepts in the theory of accessible categories (with Steve Lack), <br>
-*Journal of Pure and Applied Algebra*, to appear, 2022; available as [arXiv:2205.11056](https://arxiv.org/abs/2205.11056).
+5. [Virtual concepts in the theory of accessible categories](https://doi.org/10.1016/j.jpaa.2022.107196) (with Steve Lack), <br>
+*Journal of Pure and Applied Algebra*, to appear, 2022; also available as [arXiv:2205.11056](https://arxiv.org/abs/2205.11056).
 
 
 
