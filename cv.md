@@ -24,7 +24,7 @@ title: "Short CV"
 
 **Awards**
 
-* 2021 -  Honourable mention for the B. H. Neumann Prize (best student talk) at the 65th Annual Meeting of the Australian Mathematical Society (AustMS2021).
+* 2021 -  Honourable mention for the [B. H. Neumann Prize](https://austms.org.au/awards-grants/awards/the-bernhard-neumann-prize/) at the 65th Annual Meeting of the Australian Mathematical Society (AustMS2021).
 * 2021 - Best student talk at the [Australian Kittens 2021](https://www.marcyrobertson.com/australian-kittens--an-ecr-conference.html) conference.
 * 2019/2022 - International Macquarie University Research Excellence Scholarship (iMQRES) - Ph.D.
 * 2018/2019 - International Macquarie University Research Excellence Scholarship (iMQRES) - Master of Research.
