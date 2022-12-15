@@ -9,7 +9,7 @@ title: "Short CV"
 **Education**
 * PhD in Mathematics, Macquarie University, Sydney - *2019/2022*.
     * Supervisors: Steve Lack (principal) and Richard Garner (associate).
-    * Thesis: [Topics in the theory of enriched accessible categories](/pdfs/PhD-thesis.pdf).
+    * Thesis: [Topics in the theory of enriched accessible categories](https://doi.org/10.25949/21638081.v1).
 
 * Master of Research in Mathematics, Macquarie University, Sydney - *2018/2019*.
     * Supervisor: Steve Lack;
