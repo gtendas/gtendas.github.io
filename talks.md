@@ -1,7 +1,7 @@
 ---
 layout: page
 tags: [formatting]
-title: "Talks"
+title: "Other"
 ---
 
 
@@ -24,3 +24,7 @@ title: "Talks"
 Below are a couple of talks I gave at the Junior Seminar (organized by students):
 * [Accessible categories made accessible](/pdfs/ACMA.pdf), 30 March 2021.
 * [Accessible categories made sound](/pdfs/ACMS.pdf), 12 April 2021.
+
+**Notes**
+
+* [Notes on dense functors](/pdfs/day.pdf), research frontiers (MRes), 2019.
