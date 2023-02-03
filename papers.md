@@ -23,7 +23,7 @@ title: "Publications and preprints"
 *Journal of Pure and Applied Algebra*, 227(2):107196, 2023; also available as [arXiv:2205.11056](https://arxiv.org/abs/2205.11056).
 
 6. Accessible categories with a class of limits (with Steve Lack), <br>
-*preprint*, 2022; available as [arXiv:2212.07135](https://arxiv.org/abs/2212.07135).
+*submitted*, 2022; available as [arXiv:2212.07135](https://arxiv.org/abs/2212.07135).
 
 
 
