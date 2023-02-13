@@ -25,5 +25,7 @@ title: "Publications and preprints"
 6. Accessible categories with a class of limits (with Steve Lack), <br>
 *submitted*, 2022; available as [arXiv:2212.07135](https://arxiv.org/abs/2212.07135).
 
+7. Dualities in the theory of accessible categories , <br>
+preprint, 2022.
 
 
