@@ -5,11 +5,11 @@ title: "Publications and preprints"
 
 ---
 
-[7].  Dualities in the theory of accessible categories, <br>
-      preprint, 2023; available as [arXiv:2302.06273](https://arxiv.org/abs/2302.06273).
+[7].  Dualities in the theory of accessible categories, <br>
+       preprint, 2023; available as [arXiv:2302.06273](https://arxiv.org/abs/2302.06273).
 
-[6]. Accessible categories with a class of limits (with Steve Lack), <br>
-      *submitted*, 2022; available as [arXiv:2212.07135](https://arxiv.org/abs/2212.07135).
+[6].  Accessible categories with a class of limits (with Steve Lack), <br>
+       *submitted*, 2022; available as [arXiv:2212.07135](https://arxiv.org/abs/2212.07135).
 
 [5]. [Virtual concepts in the theory of accessible categories](https://doi.org/10.1016/j.jpaa.2022.107196) (with Steve Lack), <br>
       *Journal of Pure and Applied Algebra*, 227(2):107196, 2023; also available as [arXiv:2205.11056](https://arxiv.org/abs/2205.11056).
