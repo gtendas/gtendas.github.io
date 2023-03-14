@@ -5,7 +5,7 @@ title: "About me"
 ---
 
 
-<a><img src="http://gtendas.github.io/assets/picture.jpg" align="right" width="230" ></a>
+<a><img src="http://gtendas.github.io/assets/picture.png" align="right" width="230" ></a>
 
 
 I currently hold a Postdoc position at Masaryk University in Brno to work on "Enriched Categories and their Applications". 
