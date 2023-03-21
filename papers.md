@@ -4,6 +4,8 @@ tags: [formatting]
 title: "Publications and preprints"
 
 ---
+[8].  Notions of enriched purity (with Jiří Rosický), <br>
+       *preprint*, 2023; available as [arXiv](https://arxiv.org).
 
 [7].  Dualities in the theory of accessible categories, <br>
        *submitted*, 2023; available as [arXiv:2302.06273](https://arxiv.org/abs/2302.06273).
