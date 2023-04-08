@@ -17,7 +17,7 @@ title: "Publications and preprints"
  (with Steve Lack), <br>
        *Journal of Pure and Applied Algebra*, 227(2):107196, 2023; also available as [arXiv:2205.11056](https://arxiv.org/abs/2205.11056).
 
-[4].  <a href="https://doi.org/10.1007/s10485-022-09677-x" style="color:blue">On continuity of accessible functors</a>, <br>
+[4].  <a href="https://doi.org/10.1007/s10485-022-09677-x" style="color:#000066">On continuity of accessible functors</a>, <br>
        *Applied Categorical Structures*, 30:937–946, 2022; also available as [arXiv:2110.14192](https://arxiv.org/abs/2110.14192).
 
 [3].  <a href="https://doi.org/10.1016/j.aim.2022.108381" style="color:blue">Flat vs. filtered colimits in the enriched context</a> (with Steve Lack), <br>
