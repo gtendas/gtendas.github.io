@@ -13,14 +13,14 @@ title: "Publications and preprints"
 [6].  Accessible categories with a class of limits (with Steve Lack), <br>
        *submitted*, 2022; available as [arXiv:2212.07135](https://arxiv.org/abs/2212.07135).
 
-[5].  <a href="https://doi.org/10.1016/j.jpaa.2022.107196" style="color:#000099">Virtual concepts in the theory of accessible categories</a>
+[5].  <a href="https://doi.org/10.1016/j.jpaa.2022.107196" style="color:blue">Virtual concepts in the theory of accessible categories</a>
  (with Steve Lack), <br>
        *Journal of Pure and Applied Algebra*, 227(2):107196, 2023; also available as [arXiv:2205.11056](https://arxiv.org/abs/2205.11056).
 
-[4].  <a href="https://doi.org/10.1007/s10485-022-09677-x" style="color:#000066">On continuity of accessible functors</a>, <br>
+[4].  <a href="https://doi.org/10.1007/s10485-022-09677-x" style="color:blue">On continuity of accessible functors</a>, <br>
        *Applied Categorical Structures*, 30:937–946, 2022; also available as [arXiv:2110.14192](https://arxiv.org/abs/2110.14192).
 
-[3].  <a href="https://doi.org/10.1016/j.aim.2022.108381" style="color:#0033cc">Flat vs. filtered colimits in the enriched context</a> (with Steve Lack), <br>
+[3].  <a href="https://doi.org/10.1016/j.aim.2022.108381" style="color:blue">Flat vs. filtered colimits in the enriched context</a> (with Steve Lack), <br>
        *Advances in Mathematics*, 404(A):108381, 2022; also available as [arXiv:2107.08612](https://arxiv.org/abs/2107.08612).
 
 [2].  <a href="http://www.tac.mta.ca/tac/volumes/37/28/37-28abs.html" style="color:blue">Cauchy completeness for DG-categories</a> (with Branko Nikolić and Ross Street), <br>
