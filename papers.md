@@ -5,7 +5,7 @@ title: "Publications and preprints"
 
 ---
 [9].  Flatness, weakly lex colimits, and free exact completions, <br>
-       *preprint*, 2023; available as [arXiv:](https://arxiv.org/abs/).
+       *preprint*, 2023; available as [arXiv:2304.09000](https://arxiv.org/abs/2304.09000).
 
 [8].  Notions of enriched purity (with Jiří Rosický), <br>
        *submitted*, 2023; available as [arXiv:2303.11957](https://arxiv.org/abs/2303.11957).
