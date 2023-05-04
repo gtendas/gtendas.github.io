@@ -12,5 +12,5 @@ I currently hold a Postdoc position at Masaryk University in Brno to work on "En
 
 Before that I was a PhD student in mathematics at [Macquarie University](https://mq.edu.au) under the supervision of [Steve Lack](https://researchers.mq.edu.au/en/persons/steve-lack). My research interests include category theory and related areas of pure mathematics; at the moment I'm working on enriched and accessible categories.
 
-<a href="https://researchers.mq.edu.au/en/persons/steve-lack" font-style: italic>
+<a href="https://researchers.mq.edu.au/en/persons/steve-lack" font-style: italic>Steve Lack</a>
 
