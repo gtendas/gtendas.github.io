@@ -10,7 +10,7 @@ title: "About me"
 
 I currently hold a Postdoc position at Masaryk University in Brno to work on "Enriched Categories and their Applications". 
 
-Before that I was a PhD student in mathematics at [Macquarie University](https://mq.edu.au) under the supervision of <a href="https://researchers.mq.edu.au/en/persons/steve-lack" style="grey">Steve Lack</a>. My research interests include category theory and related areas of pure mathematics; at the moment I'm working on enriched and accessible categories.
+Before that I was a PhD student in mathematics at [Macquarie University](https://mq.edu.au) under the supervision of <a href="https://researchers.mq.edu.au/en/persons/steve-lack" style="font-style:italic">Steve Lack</a>. My research interests include category theory and related areas of pure mathematics; at the moment I'm working on enriched and accessible categories.
 
 
 
