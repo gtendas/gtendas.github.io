@@ -13,7 +13,7 @@ title: "Other"
 * [*Flat vs. filtered colimits*](/pdfs/CT2021.pdf) - International Category Theory Conference (CT20→21), Università di Genova and online, 30 August to 4 September 2021 ([video](https://youtu.be/hzdCWxXTnvY?list=PLjdJCdYLZRbPtsuid5necdRh7u1FpFDbW)).
 * [*On continuity of functors between locally presentable categories*](/pdfs/AustMS2021.pdf) - 65th Annual Meeting of the Australian Mathematical Society (AustMS2021), University of Newcastle and online, 7-10 December 2021. 
 * [*Dualities in the theory of accessible categories*](/pdfs/PSSL107.pdf) - 107th Peripatetic Seminar on Sheaves and Logic (PSSL107), Athens, 1-2 April 2023.
-* [*Flatness, weakly-lex colimits and free exact completions*](/pdfs/CT2023.pdf) - International Category Theory Conference (CT2023), UCLouvain, 2-8 July 2023.
+* [*Flatness, weakly-lex colimits, and free exact completions*](/pdfs/CT2023.pdf) - International Category Theory Conference (CT2023), UCLouvain, 2-8 July 2023.
 
 **Australian Category Seminar**
 
