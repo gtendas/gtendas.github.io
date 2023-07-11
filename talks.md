@@ -1,7 +1,7 @@
 ---
 layout: page
 tags: [formatting]
-title: "Other"
+title: "Talks & notes"
 ---
 
 
@@ -15,7 +15,7 @@ title: "Other"
 * [*Dualities in the theory of accessible categories*](/pdfs/PSSL107.pdf) - 107th Peripatetic Seminar on Sheaves and Logic (PSSL107), Athens, 1-2 April 2023.
 * [*Flatness, weakly-lex colimits, and free exact completions*](/pdfs/CT2023.pdf) - International Category Theory Conference (CT2023), UCLouvain, 2-8 July 2023.
 
-**Australian Category Seminar**
+**Seminar talks**
 
 [This](http://web.science.mq.edu.au/groups/coact/seminar/cgi-bin/speaker-info.cgi?name=Giacomo+Tendas) is the list of my talks at the Australian Category Seminar; here are some slides:
 * [Accessible categories with limits of some class](/pdfs/AusCat-5-08-20.pdf), 5 August 2020.
