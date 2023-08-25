@@ -7,13 +7,13 @@ title: "Talks & notes"
 
 **Conference talks**
 
-* [*Enriched regular theories*](/pdfs/CT2019.pdf) - International Category Theory Conference (CT2019), University of Edinburgh, 7-13 July 2019.
-* [*Regular theories enriched over finitary varieties*](/pdfs/AustMS2019.pdf) - 63rd Annual Meeting of the Australian Mathematical Society (AustMS2019), Monash University, 3-6 December 2019.
-* [*Equivalent characterizations of accessible V-categories*](/pdfs/ItaCaFest.pdf) - ItaCa Fest 2020 XMAS EDITION (online), 16 December 2020 ([video](https://www.youtube.com/watch?v=uJrJasi7Nbk)).
-* [*Flat vs. filtered colimits*](/pdfs/CT2021.pdf) - International Category Theory Conference (CT20→21), Università di Genova and online, 30 August to 4 September 2021 ([video](https://youtu.be/hzdCWxXTnvY?list=PLjdJCdYLZRbPtsuid5necdRh7u1FpFDbW)).
-* [*On continuity of functors between locally presentable categories*](/pdfs/AustMS2021.pdf) - 65th Annual Meeting of the Australian Mathematical Society (AustMS2021), University of Newcastle and online, 7-10 December 2021. 
-* [*Dualities in the theory of accessible categories*](/pdfs/PSSL107.pdf) - 107th Peripatetic Seminar on Sheaves and Logic (PSSL107), Athens, 1-2 April 2023.
-* [*Flatness, weakly-lex colimits, and free exact completions*](/pdfs/CT2023.pdf) - International Category Theory Conference (CT2023), UCLouvain, 2-8 July 2023.
+* [*Enriched regular theories*](/pdfs/CT2019.pdf) - CT2019, University of Edinburgh (UK), 7-13 July 2019.
+* [*Regular theories enriched over finitary varieties*](/pdfs/AustMS2019.pdf) - AustMS2019, Monash University (Australia), 3-6 December 2019.
+* [*Equivalent characterizations of accessible V-categories*](/pdfs/ItaCaFest.pdf) - ItaCa Fest (online), 16 December 2020 ([video](https://www.youtube.com/watch?v=uJrJasi7Nbk)).
+* [*Flat vs. filtered colimits*](/pdfs/CT2021.pdf) - CT20→21, Università di Genova (Italy) and online, 30 August to 4 September 2021 ([video](https://youtu.be/hzdCWxXTnvY?list=PLjdJCdYLZRbPtsuid5necdRh7u1FpFDbW)).
+* [*On continuity of functors between locally presentable categories*](/pdfs/AustMS2021.pdf) - AustMS2021, University of Newcastle (Australia) and online, 7-10 December 2021. 
+* [*Dualities in the theory of accessible categories*](/pdfs/PSSL107.pdf) - PSSL107, Athens (Greece), 1-2 April 2023.
+* [*Flatness, weakly-lex colimits, and free exact completions*](/pdfs/CT2023.pdf) - CT2023, UCLouvain (Belgium), 2-8 July 2023.
 
 **Seminar talks**
 
