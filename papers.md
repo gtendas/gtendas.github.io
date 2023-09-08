@@ -5,7 +5,7 @@ title: "Publications and preprints"
 
 ---
 [9].  Flatness, weakly lex colimits, and free exact completions, <br>
-       *submitted*, 2023; available as [arXiv:2304.09000](https://arxiv.org/abs/2304.09000).
+       *Annali di Matematica Pura ed Applicata*, to appear, 2023; alsoavailable as [arXiv:2304.09000](https://arxiv.org/abs/2304.09000).
 
 [8].  Notions of enriched purity (with <a href="http://www.math.muni.cz/~rosicky/" style="color:black">Jiří Rosický</a>), <br>
        *submitted*, 2023; available as [arXiv:2303.11957](https://arxiv.org/abs/2303.11957).
