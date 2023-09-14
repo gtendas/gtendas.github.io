@@ -14,6 +14,7 @@ title: "Talks & notes"
 * [*On continuity of functors between locally presentable categories*](/pdfs/AustMS2021.pdf) - AustMS2021, University of Newcastle (Australia) and online, 7-10 December 2021. 
 * [*Dualities in the theory of accessible categories*](/pdfs/PSSL107.pdf) - PSSL107, Athens (Greece), 1-2 April 2023.
 * [*Flatness, weakly-lex colimits, and free exact completions*](/pdfs/CT2023.pdf) - CT2023, UCLouvain (Belgium), 2-8 July 2023.
+* [*Enriched purity: towards enriched model theory*](/pdfs/PSSL108.pdf) - PSSL108, Palermo (Italy), 16-17 September 2023.
 
 **Seminar talks**
 
