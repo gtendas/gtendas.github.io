@@ -3,6 +3,10 @@ layout: page
 tags: [formatting]
 title: "Clocks I've worked on"
 ---
+* Mantle clock (early 19th century)
+
+<a ><img src="http://gtendas.github.io/orologi/French2.jpg" align="center" width="270" ></a>   <a ><img src="http://gtendas.github.io/orologi/French2b.jpg" align="center" width="165" ></a>   
+[before](http://gtendas.github.io/orologi/French2c.jpg)
 
 * Tiny carriage clock (19th century)
 
