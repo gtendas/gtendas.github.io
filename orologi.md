@@ -5,7 +5,7 @@ title: "Clocks I've worked on"
 ---
 * Mantle clock (early 19th century)
 
-<a ><img src="http://gtendas.github.io/orologi/French2.jpg" align="center" width="210" ></a>   <a ><img src="http://gtendas.github.io/orologi/French2b.jpg" align="center" width="195" ></a>   
+<a ><img src="http://gtendas.github.io/orologi/French2.jpg" align="center" width="210" ></a>   <a ><img src="http://gtendas.github.io/orologi/French2b.jpg" align="center" width="194" ></a>   
 [before](http://gtendas.github.io/orologi/French2c.jpg)
 
 * Tiny carriage clock (19th century)
