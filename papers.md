@@ -5,13 +5,13 @@ title: "Publications and preprints"
 
 ---
 
-[10].  Enriched universal algebra (with <a href="http://www.math.muni.cz/~rosicky/" style="color:black">Jiří Rosický</a>), <br>
+[10]  Enriched universal algebra (with <a href="http://www.math.muni.cz/~rosicky/" style="color:black">Jiří Rosický</a>), <br>
        *preprint*, 2023; available as [arXiv:](https://arxiv.org/abs/).
 
-[9].  <a href="https://doi.org/10.1007/s10231-023-01383-2" style="color:blue">Flatness, weakly lex colimits, and free exact completions</a>, <br>
+[9]  <a href="https://doi.org/10.1007/s10231-023-01383-2" style="color:blue">Flatness, weakly lex colimits, and free exact completions</a>, <br>
        *Annali di Matematica Pura ed Applicata*, in press, 2023; also available as [arXiv:2304.09000](https://arxiv.org/abs/2304.09000).
 
-[8].  Notions of enriched purity (with <a href="http://www.math.muni.cz/~rosicky/" style="color:black">Jiří Rosický</a>), <br>
+[8]  Notions of enriched purity (with <a href="http://www.math.muni.cz/~rosicky/" style="color:black">Jiří Rosický</a>), <br>
        *submitted*, 2023; available as [arXiv:2303.11957](https://arxiv.org/abs/2303.11957).
 
 [7].  Dualities in the theory of accessible categories, <br>
