@@ -28,7 +28,7 @@ title: "Publications and preprints"
          *Applied Categorical Structures*, 30:937–946, 2022; also available as [arXiv:2110.14192](https://arxiv.org/abs/2110.14192).
 
   [3]  <a href="https://doi.org/10.1016/j.aim.2022.108381" style="color:blue">Flat vs. filtered colimits in the enriched context</a> (with <a href="https://researchers.mq.edu.au/en/persons/steve-lack" style="color:black">Steve Lack</a>), <br>
-       *Advances in Mathematics*, 404(A):108381, 2022; also available as [arXiv:2107.08612](https://arxiv.org/abs/2107.08612).
+         *Advances in Mathematics*, 404(A):108381, 2022; also available as [arXiv:2107.08612](https://arxiv.org/abs/2107.08612).
 
   [2]  <a href="http://www.tac.mta.ca/tac/volumes/37/28/37-28abs.html" style="color:blue">Cauchy completeness for DG-categories</a> (with Branko Nikolić and <a href="http://maths.mq.edu.au/~street/" style="color:black">Ross Street</a>), <br>
          *Theory and Applications of Categories*, 37(28):940-963, 2021; also available as [arXiv:2012.10157](https://arxiv.org/abs/2012.10157). 
