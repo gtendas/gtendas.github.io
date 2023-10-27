@@ -3,6 +3,12 @@ layout: page
 tags: [formatting]
 title: "Clocks I've worked on"
 ---
+* French "pendule cartel" (mid 19th century)
+
+<a ><img src="http://gtendas.github.io/orologi/cartel1.jpg" align="center" width="190" ></a>   <a ><img src="http://gtendas.github.io/orologi/cartel2.jpg" align="center" width="190" ></a>   
+[before](http://gtendas.github.io/orologi/cartelold.jpg)
+
+
 * Mantle clock (early 19th century)
 
 <a ><img src="http://gtendas.github.io/orologi/French2.jpg" align="center" width="210" ></a>   <a ><img src="http://gtendas.github.io/orologi/French2b.jpg" align="center" width="193" ></a>   
