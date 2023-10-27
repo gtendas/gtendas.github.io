@@ -5,7 +5,7 @@ title: "Clocks I've worked on"
 ---
 * French "pendule cartel" (mid 19th century)
 
-<a ><img src="http://gtendas.github.io/orologi/cartel1.jpg" align="center" width="195" ></a>   <a ><img src="http://gtendas.github.io/orologi/cartel2.jpg" align="center" width="185" ></a>   
+<a ><img src="http://gtendas.github.io/orologi/cartel1.jpg" align="center" width="200" ></a>   <a ><img src="http://gtendas.github.io/orologi/cartel2.jpg" align="center" width="185" ></a>   
 [before](http://gtendas.github.io/orologi/carterlold.jpg)
 
 
