@@ -1,6 +1,6 @@
 title: "Giacomo Tendas"
 author: "Giacomo Tendas"
-description: "tendasg<i class="clock"></i>math.muni.cz"
+description: "tendasg[at]math.muni.cz"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,12 +22,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Other, file: "talks.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: "-", icon: , file: "orologi.md"}
   - {title: Mail, icon: envelope, url: "mailto:tendasg@math.muni.cz"}
   - {title: Muni page, icon: university, url: "https://www.muni.cz/en/people/242140"}
   - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0003-1001-6690"}
   - {title: Scholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=VEFYpBMAAAAJ&hl=it"}
-  - {title: "-", icon: clock, file: "orologi.md"}
-
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
