@@ -16,7 +16,7 @@ title: "Clocks I've worked on"
 
 * Mantle clock (19th century)
 
-<a ><img src="http://gtendas.github.io/orologi/French1.jpg" align="center" width="201" ></a>   <a ><img src="http://gtendas.github.io/orologi/French1b.jpg" align="center" width="165" ></a>   
+<a ><img src="http://gtendas.github.io/orologi/French1.jpg" align="center" width="201" ></a>   <a ><img src="http://gtendas.github.io/orologi/French1b.jpg" align="center" width="185" ></a>   
 [before](http://gtendas.github.io/orologi/French1c.jpg)
 
 
