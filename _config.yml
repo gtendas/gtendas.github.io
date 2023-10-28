@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Other, file: "talks.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: "-", icon: , file: "orologi.md"}
+  - {title: " ", icon: , file: "orologi.md"}
   - {title: Mail, icon: envelope, url: "mailto:tendasg@math.muni.cz"}
   - {title: Muni page, icon: university, url: "https://www.muni.cz/en/people/242140"}
   - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0003-1001-6690"}
