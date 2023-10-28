@@ -1,6 +1,6 @@
 title: "Giacomo Tendas"
 author: "Giacomo Tendas"
-description: "tendasg<FontAwesomeIcon icon="fa-regular fa-clock" />math.muni.cz"
+description: "tendasg{icon: clock}math.muni.cz"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
