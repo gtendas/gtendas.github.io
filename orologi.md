@@ -20,7 +20,7 @@ title: "Clocks I've worked on"
 [before](http://gtendas.github.io/orologi/French1c.jpg)
 
 
-* French carriage clock (19th century)
+* Brass carriage clock (19th century)
 
 <a ><img src="http://gtendas.github.io/orologi/carriage1.jpg" align="center" width="163" ></a>   <a ><img src="http://gtendas.github.io/orologi/carriage1b.jpg" align="center" width="165" ></a>   
 [before](http://gtendas.github.io/orologi/carriageold1.jpg)
