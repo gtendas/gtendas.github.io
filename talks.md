@@ -15,7 +15,8 @@ title: "Talks & notes"
 * [*Dualities in the theory of accessible categories*](/pdfs/PSSL107.pdf) - PSSL107, Athens (Greece), 1-2 April 2023.
 * [*Flatness, weakly-lex colimits, and free exact completions*](/pdfs/CT2023.pdf) - CT2023, UCLouvain (Belgium), 2-8 July 2023.
 * [*Enriched purity: towards enriched model theory*](/pdfs/PSSL108.pdf) - PSSL108, Palermo (Italy), 16-17 September 2023.
-
+* [*On continuity of functors between locally presentable categories*](/pdfs/ItaCa2023.pdf) - ItaCa Workshop 2023, Università di Torino (Italy), 18-19 December 2023.
+  
 **Seminar talks**
 
 [This](http://web.science.mq.edu.au/groups/coact/seminar/cgi-bin/speaker-info.cgi?name=Giacomo+Tendas) is the list of my talks at the Australian Category Seminar; here are some slides:
