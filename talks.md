@@ -13,7 +13,7 @@ title: "Talks & notes"
 * [*Flat vs. filtered colimits*](/pdfs/CT2021.pdf) - CT20→21, Università di Genova (Italy) and online, 30 August to 4 September 2021 ([video](https://youtu.be/hzdCWxXTnvY?list=PLjdJCdYLZRbPtsuid5necdRh7u1FpFDbW)).
 * [*On continuity of functors between locally presentable categories*](/pdfs/AustMS2021.pdf) - AustMS2021, University of Newcastle (Australia) and online, 7-10 December 2021. 
 * [*Dualities in the theory of accessible categories*](/pdfs/PSSL107.pdf) - PSSL107, Athens (Greece), 1-2 April 2023.
-* [*Flatness, weakly-lex colimits, and free exact completions*](/pdfs/CT2023.pdf) - CT2023, UCLouvain (Belgium), 2-8 July 2023 ([video]([https://youtu.be/hzdCWxXTnvY?list=PLjdJCdYLZRbPtsuid5necdRh7u1FpFDbW](https://www.youtube.com/watch?v=5dBzAROeg1w&ab_channel=ArchiveTrustforResearch))).
+* [*Flatness, weakly-lex colimits, and free exact completions*](/pdfs/CT2023.pdf) - CT2023, UCLouvain (Belgium), 2-8 July 2023 ([video](https://www.youtube.com/watch?v=5dBzAROeg1w&ab_channel=ArchiveTrustforResearch)).
 * [*Enriched purity: towards enriched model theory*](/pdfs/PSSL108.pdf) - PSSL108, Palermo (Italy), 16-17 September 2023.
 * [*On continuity of functors between locally presentable categories*](/pdfs/ItaCa2023.pdf) - ItaCa Workshop 2023, Università di Torino (Italy), 18-19 December 2023.
   
