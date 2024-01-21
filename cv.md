@@ -4,18 +4,20 @@ tags: [formatting]
 title: "Short CV"
 
 ---
-
+**Appointments**
+* Postdoc, University of Manchester, Manchester - *2024-2027*.
+* Postdoc, Masarykova Univerzita, Brno - *2022-2023*.
 
 **Education**
-* PhD in Mathematics, Macquarie University, Sydney - *2019/2022*.
+* PhD in Mathematics, Macquarie University, Sydney - *2019-2022*.
     * Supervisors: Steve Lack (principal) and Richard Garner (associate).
     * Thesis: <a href="https://doi.org/10.25949/21638081.v1" style="color:blue">Topics in the theory of enriched accessible categories</a>.
 
-* Master of Research in Mathematics, Macquarie University, Sydney - *2018/2019*.
+* Master of Research in Mathematics, Macquarie University, Sydney - *2018-2019*.
     * Supervisor: Steve Lack;
     * Thesis: <a href="https://doi.org/10.25949/19443470.v1" style="color:blue">Enriched regular theories</a>.
 
-* Master degree in Mathematics, Università di Pisa - *2015/2017*.
+* Master degree in Mathematics, Università di Pisa - *2015-2017*.
     * Supervisors: Andreas Blass (principal) and Mauro Di Nasso (associate);
     * Thesis: <a href="https://etd.adm.unipi.it/t/etd-11222017-094128/" style="color:blue">Strongly preserved formulas in topoi</a>.
 
