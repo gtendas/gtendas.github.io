@@ -1,6 +1,6 @@
 title: "Giacomo Tendas"
 author: "Giacomo Tendas"
-description: "tendasg[at]math.muni.cz"
+description: "giacomo.tendas[at]manchester.ac.uk"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -23,8 +23,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: "  ", file: "orologi.md"}
-  - {title: Mail, icon: envelope, url: "mailto:tendasg@math.muni.cz"}
-  - {title: Muni page, icon: university, url: "https://www.muni.cz/en/people/242140"}
+  - {title: Mail, icon: envelope, url: "mailto:giacomo.tendas@manchester.ac.uk"}
+  - {title: Muni page, icon: university, url: "https://gtendas.github.io/"}
   - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0003-1001-6690"}
   - {title: Scholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=VEFYpBMAAAAJ&hl=it"}
 comments:
