@@ -5,7 +5,7 @@ title: "Publications and preprints"
 
 ---
 
-[10]  Enriched universal algebra (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightskyblue">Jiří Rosický</a>), <br>
+[10]  Enriched universal algebra (with <a href="http://www.math.muni.cz/~rosicky/" style="color:skyblue">Jiří Rosický</a>), <br>
         *submitted*, 2023; available as [arXiv:2310.11972](https://arxiv.org/abs/2310.11972).
 
 [9]  <a href="https://doi.org/10.1007/s10231-023-01383-2" style="color:blue">Flatness, weakly lex colimits, and free exact completions</a>, <br>
