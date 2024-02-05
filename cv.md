@@ -11,15 +11,15 @@ title: "Short CV"
 **Education**
 * PhD in Mathematics, Macquarie University, Sydney - *2019-2022*.
     * Supervisors: Steve Lack (principal) and Richard Garner (associate).
-    * Thesis: <a href="https://doi.org/10.25949/21638081.v1" style="color:blue">Topics in the theory of enriched accessible categories</a>.
+    * Thesis: <a href="https://doi.org/10.25949/21638081.v1" >Topics in the theory of enriched accessible categories</a>.
 
 * Master of Research in Mathematics, Macquarie University, Sydney - *2018-2019*.
     * Supervisor: Steve Lack;
-    * Thesis: <a href="https://doi.org/10.25949/19443470.v1" style="color:blue">Enriched regular theories</a>.
+    * Thesis: <a href="https://doi.org/10.25949/19443470.v1" >Enriched regular theories</a>.
 
 * Master degree in Mathematics, Università di Pisa - *2015-2017*.
     * Supervisors: Andreas Blass (principal) and Mauro Di Nasso (associate);
-    * Thesis: <a href="https://etd.adm.unipi.it/t/etd-11222017-094128/" style="color:blue">Strongly preserved formulas in topoi</a>.
+    * Thesis: <a href="https://etd.adm.unipi.it/t/etd-11222017-094128/" >Strongly preserved formulas in topoi</a>.
 
 **Events organised**
 * [Australian Category Seminar](http://web.science.mq.edu.au/groups/coact/seminar/about-auscat.html), January-August 2022.
