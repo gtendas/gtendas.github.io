@@ -17,7 +17,7 @@ title: "Publications and preprints"
 [7]  Dualities in the theory of accessible categories, <br>
        *submitted*, 2023; available as [arXiv:2302.06273](https://arxiv.org/abs/2302.06273).
 
-[6]  <a href="https://doi.org/10.1016/j.jpaa.2023.107444" style="color:blue">Accessible categories with a class of limits</a> (with <a href="https://researchers.mq.edu.au/en/persons/steve-lack" style="color:black">Steve Lack</a>), <br>
+[6]  <a href="https://doi.org/10.1016/j.jpaa.2023.107444" style="color:indigo">Accessible categories with a class of limits</a> (with <a href="https://researchers.mq.edu.au/en/persons/steve-lack" style="color:black">Steve Lack</a>), <br>
        *Journal of Pure and Applied Algebra*, 228(2):107444, 2024; also available as [arXiv:2212.07135](https://arxiv.org/abs/2212.07135).
 
 [5]  <a href="https://doi.org/10.1016/j.jpaa.2022.107196" style="color:blue">Virtual concepts in the theory of accessible categories</a>
