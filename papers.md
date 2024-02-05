@@ -8,7 +8,7 @@ title: "Publications and preprints"
 [10]  Enriched universal algebra (with <a href="http://www.math.muni.cz/~rosicky/">Jiří Rosický</a>), <br>
         *submitted*, 2023; available as [arXiv:2310.11972](https://arxiv.org/abs/2310.11972).
 
-[9]  <a href="https://doi.org/10.1007/s10231-023-01383-2" style="color:brightblue">Flatness, weakly lex colimits, and free exact completions</a>, <br>
+[9]  <a href="https://doi.org/10.1007/s10231-023-01383-2" style="color:cyan">Flatness, weakly lex colimits, and free exact completions</a>, <br>
        *Annali di Matematica Pura ed Applicata*, in press, 2023; also available as [arXiv:2304.09000](https://arxiv.org/abs/2304.09000).
 
 [8]  Notions of enriched purity (with <a href="http://www.math.muni.cz/~rosicky/" style="color:black">Jiří Rosický</a>), <br>
@@ -17,7 +17,7 @@ title: "Publications and preprints"
 [7]  Dualities in the theory of accessible categories, <br>
        *submitted*, 2023; available as [arXiv:2302.06273](https://arxiv.org/abs/2302.06273).
 
-[6]  <a href="https://doi.org/10.1016/j.jpaa.2023.107444" style="color:indigo">Accessible categories with a class of limits</a> (with <a href="https://researchers.mq.edu.au/en/persons/steve-lack" style="color:black">Steve Lack</a>), <br>
+[6]  <a href="https://doi.org/10.1016/j.jpaa.2023.107444" style="color:blue">Accessible categories with a class of limits</a> (with <a href="https://researchers.mq.edu.au/en/persons/steve-lack" style="color:black">Steve Lack</a>), <br>
        *Journal of Pure and Applied Algebra*, 228(2):107444, 2024; also available as [arXiv:2212.07135](https://arxiv.org/abs/2212.07135).
 
 [5]  <a href="https://doi.org/10.1016/j.jpaa.2022.107196" style="color:blue">Virtual concepts in the theory of accessible categories</a>
