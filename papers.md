@@ -1,21 +1,12 @@
 ---
 layout: page
 tags: [formatting]
-title: "Publications and preprints"
+title: "Publications"
 
 ---
 
-[10]  Enriched universal algebra (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
-        *submitted*, 2023; available as [arXiv:2310.11972](https://arxiv.org/abs/2310.11972).
-
-[9]  <a href="https://doi.org/10.1007/s10231-023-01383-2">Flatness, weakly lex colimits, and free exact completions</a>, <br>
+[7]  <a href="https://doi.org/10.1007/s10231-023-01383-2">Flatness, weakly lex colimits, and free exact completions</a>, <br>
        *Annali di Matematica Pura ed Applicata*, 203:823–856 (2024); also available as [arXiv:2304.09000](https://arxiv.org/abs/2304.09000).
-
-[8]  Notions of enriched purity (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
-       *submitted*, 2023; available as [arXiv:2303.11957](https://arxiv.org/abs/2303.11957).
-
-[7]  Dualities in the theory of accessible categories, <br>
-       *submitted*, 2023; available as [arXiv:2302.06273](https://arxiv.org/abs/2302.06273).
 
 [6]  <a href="https://doi.org/10.1016/j.jpaa.2023.107444" >Accessible categories with a class of limits</a> (with <a href="https://researchers.mq.edu.au/en/persons/steve-lack" style="color:lightblue">Steve Lack</a>), <br>
        *Journal of Pure and Applied Algebra*, 228(2):107444, 2024; also available as [arXiv:2212.07135](https://arxiv.org/abs/2212.07135).
@@ -36,4 +27,16 @@ title: "Publications and preprints"
 [1]  <a href="https://doi.org/10.1016/j.jpaa.2019.106268" >Enriched regular theories</a> (with <a href="https://researchers.mq.edu.au/en/persons/steve-lack" style="color:lightblue">Steve Lack</a>), <br>
        *Journal of Pure and Applied Algebra*, 224(6):106268, 2020; also available as [arXiv:1907.02301](https://arxiv.org/abs/1907.02301). 
 
+
+**Preprints**
+
+
+[3]  Enriched universal algebra (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
+       *submitted*, 2023; available as [arXiv:2310.11972](https://arxiv.org/abs/2310.11972).
+
+[2]  Notions of enriched purity (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
+       *submitted*, 2023; available as [arXiv:2303.11957](https://arxiv.org/abs/2303.11957).
+
+[1]  Dualities in the theory of accessible categories, <br>
+       *submitted*, 2023; available as [arXiv:2302.06273](https://arxiv.org/abs/2302.06273).
 
