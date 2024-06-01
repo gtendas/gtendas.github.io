@@ -4,7 +4,7 @@ tags: [formatting]
 title: "About me"
 ---
 
-<a><img src="http://gtendas.github.io/assets/picture.png" align="right" width="230" padding="20px" ></a>
+<a><img src="http://gtendas.github.io/assets/picture.png" align="right" width="230" margin="1em" ></a>
 
 
 I currently hold a Postdoc position at the [University of Manchester](https://www.maths.manchester.ac.uk/) under an EPSRC postdoctoral fellowship.
