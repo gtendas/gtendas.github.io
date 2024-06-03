@@ -17,7 +17,7 @@ I did my PhD in mathematics at [Macquarie University](https://mq.edu.au), in Syd
 * 23-29 June 2024, [CT2024](https://www.usc.gal/regaca/ct2024/), Santiago de Compostela, Spain.
 * 9-10 September 2024, [CT & CatAlg](https://url.au.m.mimecastprotect.com/s/raIeCWLVn6iMP8w9cx-JZm?domain=sites.google.com), Milan, Italy.
 * 12-13 September 2024, [ECCL24](https://logic.dima.unige.it/eccl-24/), Genoa, Italy.
-* 16-20 September 2024, Research visit to Masaryk University, Czeck Republic.
+* 16-20 September 2024, Research visit to Masaryk University, Czech Republic.
 * 23-27 September 2024, Research visit to UCLouvain, Belgium.
 
 
