@@ -29,6 +29,7 @@ title: "Publications"
 
 
 **Preprints**
+
 [4]  Enriched concepts of regular logic (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
        *preprint*, 2024; available as [arXiv:](https://arxiv.org/abs/).
 
