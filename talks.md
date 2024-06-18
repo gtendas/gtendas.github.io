@@ -16,7 +16,7 @@ title: "Talks & notes"
 * [*Flatness, weakly-lex colimits, and free exact completions*](/pdfs/CT2023.pdf) - CT2023, UCLouvain (Belgium), 2-8 July 2023 ([video](https://www.youtube.com/watch?v=5dBzAROeg1w&ab_channel=ArchiveTrustforResearch)).
 * [*Enriched purity: towards enriched model theory*](/pdfs/PSSL108.pdf) - PSSL108, Palermo (Italy), 16-17 September 2023.
 * [*On continuity of functors between locally presentable categories*](/pdfs/ItaCa2023.pdf) - ItaCa Workshop 2023, Università di Torino (Italy), 18-19 December 2023.
-* [*Enriched universal algebra*](/pdfs/BMC1014.pdf) - 75th British Mathematical Colloqium, University of Manchester (UK), 17-20 June 2024. 
+* [*Enriched universal algebra*](/pdfs/BMC2024.pdf) - 75th British Mathematical Colloqium, University of Manchester (UK), 17-20 June 2024. 
   
 **Seminar talks**
 
