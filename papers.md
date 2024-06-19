@@ -31,7 +31,7 @@ title: "Publications"
 **Preprints**
 
 [4]  Enriched concepts of regular logic (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
-       *preprint*, 2024; available as [arXiv:](https://arxiv.org/abs/).
+       *preprint*, 2024; available as [arXiv:2406.12617](https://arxiv.org/abs/2406.12617).
 
 [3]  Enriched universal algebra (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
        *submitted*, 2023; available as [arXiv:2310.11972](https://arxiv.org/abs/2310.11972).
