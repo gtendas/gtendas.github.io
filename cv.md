@@ -22,8 +22,10 @@ title: "Short CV"
     * Thesis: <a href="https://etd.adm.unipi.it/t/etd-11222017-094128/" >Strongly preserved formulas in topoi</a>.
 
 **Events organised**
-* [Australian Category Seminar](http://web.science.mq.edu.au/groups/coact/seminar/about-auscat.html), January-August 2022.
-* [Categories and Companions Symposium](http://web.science.mq.edu.au/groups/coact/seminar/CaCS2021/), June 8–12, 2021 on Zoom. 
+
+* [Categorical Logic and Higher Categories](https://gtendas.github.io/clhc/), 16-19 December 2024, Manchester.
+* [Australian Category Seminar](http://web.science.mq.edu.au/groups/coact/seminar/about-auscat.html), January-August 2022, Sydney.
+* [Categories and Companions Symposium](http://web.science.mq.edu.au/groups/coact/seminar/CaCS2021/), 8–12 June 2021 on Zoom. 
 
 **Awards**
 
