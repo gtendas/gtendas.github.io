@@ -5,7 +5,7 @@ title: "Talks & notes"
 ---
 
 
-**Conference talks**
+**Selected talks**
 
 * [*Enriched regular theories*](/pdfs/CT2019.pdf) - CT2019, University of Edinburgh (UK), 7-13 July 2019.
 * [*Regular theories enriched over finitary varieties*](/pdfs/AustMS2019.pdf) - AustMS2019, Monash University (Australia), 3-6 December 2019.
@@ -31,4 +31,5 @@ Below are a couple of talks I gave at the Junior Seminar (organized by students)
 
 **Notes**
 
+* [Enriched categories: theory and examples](/pdfs/ECTE.pdf), notes from a postgraduate minicourse (work in progress), 2024.
 * [Notes on dense functors](/pdfs/day.pdf), research frontiers (MRes), 2019.
