@@ -35,7 +35,7 @@ title: "Publications"
 [4]  More on soundness in the enriched context, <br>
        *submitted*, 2024; available as [arXiv:2409.00389](https://arxiv.org/abs/2409.00389).
 
-[3]  Enriched universal algebra (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
+[3]  Towards enriched universal algebra (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
        *submitted*, 2023; available as [arXiv:2310.11972](https://arxiv.org/abs/2310.11972).
 
 [2]  Notions of enriched purity (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
