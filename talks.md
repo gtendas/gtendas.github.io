@@ -16,9 +16,10 @@ title: "Talks & notes"
 * [*Flatness, weakly-lex colimits, and free exact completions*](/pdfs/CT2023.pdf) - CT2023, UCLouvain (Belgium), 2-8 July 2023 ([video](https://www.youtube.com/watch?v=5dBzAROeg1w&ab_channel=ArchiveTrustforResearch)).
 * [*Enriched purity: towards enriched model theory*](/pdfs/PSSL108.pdf) - PSSL108, Palermo (Italy), 16-17 September 2023.
 * [*On continuity of functors between locally presentable categories*](/pdfs/ItaCa2023.pdf) - ItaCa Workshop 2023, Università di Torino (Italy), 18-19 December 2023.
-* [*Enriched universal algebra*](/pdfs/BMC2024.pdf) - 75th British Mathematical Colloqium, University of Manchester (UK), 17-20 June 2024. 
+* [*Enriched universal algebra*](/pdfs/BMC2024.pdf) - 75th British Mathematical Colloqium, University of Manchester (UK), 17-20 June 2024.
+* [*Regular theories from the enriched point of view*](https://progetto-itaca.github.io/fests/fest24.html#tendas) - ItaCa Fest (online, 22 October 2024 ([video](https://www.youtube.com/watch?v=JhZRQejZxEU)).
   
-**Seminar talks**
+**Local talks**
 
 [This](http://web.science.mq.edu.au/groups/coact/seminar/cgi-bin/speaker-info.cgi?name=Giacomo+Tendas) is the list of my talks at the Australian Category Seminar; here are some slides:
 * [Accessible categories with limits of some class](/pdfs/AusCat-5-08-20.pdf), 5 August 2020.
