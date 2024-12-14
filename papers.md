@@ -5,10 +5,10 @@ title: "Publications"
 
 ---
 [9]  Enriched concepts of regular logic (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
-       to appear on *Journal of Symbolic Logic*, 2024; available as [arXiv:2406.12617](https://arxiv.org/abs/2406.12617).
+       to appear in *Journal of Symbolic Logic*, 2024; available as [arXiv:2406.12617](https://arxiv.org/abs/2406.12617).
 
 [8]  Notions of enriched purity (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
-       to appear on *Theory and Applications of Categories*, 2024; available as [arXiv:2303.11957](https://arxiv.org/abs/2303.11957).
+       to appear in *Theory and Applications of Categories*, 2024; available as [arXiv:2303.11957](https://arxiv.org/abs/2303.11957).
 
 [7]  <a href="https://doi.org/10.1007/s10231-023-01383-2">Flatness, weakly lex colimits, and free exact completions</a>, <br>
        *Annali di Matematica Pura ed Applicata*, 203:823–856, 2024; also available as [arXiv:2304.09000](https://arxiv.org/abs/2304.09000).
