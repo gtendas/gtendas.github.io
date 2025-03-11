@@ -7,7 +7,7 @@ title: "Publications"
 [10] Dualities in the theory of accessible categories, <br>
        to appear in *Journal of Algebra*, 2025; available as [arXiv:2302.06273](https://arxiv.org/abs/2302.06273).
 
-[9]  Enriched concepts of regular logic (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
+ [9] Enriched concepts of regular logic (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
        to appear in *Journal of Symbolic Logic*, 2025; available as [arXiv:2406.12617](https://arxiv.org/abs/2406.12617).
 
 [8]  <a href="http://tac.mta.ca/tac/volumes/41/58/41-58abs.html">Notions of enriched purity</a> (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
