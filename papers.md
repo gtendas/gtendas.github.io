@@ -4,8 +4,11 @@ tags: [formatting]
 title: "Publications"
 
 ---
+[10] Dualities in the theory of accessible categories, <br>
+       to appear in *Journal of Algebra*, 2025; available as [arXiv:2302.06273](https://arxiv.org/abs/2302.06273).
+
 [9]  Enriched concepts of regular logic (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
-       to appear in *Journal of Symbolic Logic*, 2024; available as [arXiv:2406.12617](https://arxiv.org/abs/2406.12617).
+       to appear in *Journal of Symbolic Logic*, 2025; available as [arXiv:2406.12617](https://arxiv.org/abs/2406.12617).
 
 [8]  <a href="http://tac.mta.ca/tac/volumes/41/58/41-58abs.html">Notions of enriched purity</a> (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
        *Theory and Applications of Categories*, 41(58):2058-2104, 2024; also available as [arXiv:2303.11957](https://arxiv.org/abs/2303.11957).
@@ -35,12 +38,10 @@ title: "Publications"
 
 **Preprints**
 
-[3]  More on soundness in the enriched context, <br>
+[2]  More on soundness in the enriched context, <br>
        *submitted*, 2024; available as [arXiv:2409.00389](https://arxiv.org/abs/2409.00389).
 
-[2]  Towards enriched universal algebra (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
+[1]  Towards enriched universal algebra (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
        *submitted*, 2023; available as [arXiv:2310.11972](https://arxiv.org/abs/2310.11972).
 
-[1]  Dualities in the theory of accessible categories, <br>
-       *submitted*, 2023; available as [arXiv:2302.06273](https://arxiv.org/abs/2302.06273).
 
