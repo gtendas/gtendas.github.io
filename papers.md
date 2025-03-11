@@ -38,10 +38,10 @@ title: "Publications"
 
 **Preprints**
 
-[2]  More on soundness in the enriched context, <br>
+ [2] More on soundness in the enriched context, <br>
        *submitted*, 2024; available as [arXiv:2409.00389](https://arxiv.org/abs/2409.00389).
 
-[1]  Towards enriched universal algebra (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
+ [1] Towards enriched universal algebra (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
        *submitted*, 2023; available as [arXiv:2310.11972](https://arxiv.org/abs/2310.11972).
 
 
