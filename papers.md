@@ -8,7 +8,7 @@ title: "Publications"
        to appear in *Journal of Symbolic Logic*, 2025; available as [arXiv:2406.12617](https://arxiv.org/abs/2406.12617).
 
  [9] <a href="https://doi.org/10.1016/j.jalgebra.2025.03.012">Dualities in the theory of accessible categories</a>, <br>
-       *Journal of Algebra*, to appear, 2025; also available as [arXiv:2302.06273](https://arxiv.org/abs/2302.06273).
+       *Journal of Algebra*, 674:29-49, 2025; also available as [arXiv:2302.06273](https://arxiv.org/abs/2302.06273).
  
  [8] <a href="http://tac.mta.ca/tac/volumes/41/58/41-58abs.html">Notions of enriched purity</a> (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
        *Theory and Applications of Categories*, 41(58):2058-2104, 2024; also available as [arXiv:2303.11957](https://arxiv.org/abs/2303.11957).
