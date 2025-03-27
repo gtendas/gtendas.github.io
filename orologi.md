@@ -9,7 +9,7 @@ title: "Clocks I've worked on"
 
 * Brass carriage clock (mid 19th century)
 
-<a ><img src="http://gtendas.github.io/orologi/carriage2a.jpg" align="center" width="201" ></a>   <a ><img src="http://gtendas.github.io/orologi/carriage2c.jpg" align="center" width="170" ></a>   
+<a ><img src="http://gtendas.github.io/orologi/carriage2a.jpg" align="center" width="201" ></a>   <a ><img src="http://gtendas.github.io/orologi/carriage2c.jpg" align="center" width="175" ></a>   
 [before](http://gtendas.github.io/orologi/carriage2old.jpg)
 
 * French "pendule cartel" (mid 19th century)
