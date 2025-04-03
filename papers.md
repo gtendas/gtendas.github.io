@@ -5,7 +5,7 @@ title: "Publications"
 
 ---
 [10] <a href="https://doi.org/10.1017/jsl.2024.83">Enriched concepts of regular logic</a> (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
-       to appear in *Journal of Symbolic Logic*, 2025; available as [arXiv:2406.12617](https://arxiv.org/abs/2406.12617).
+       *Journal of Symbolic Logic*, in print, 2025; available as [arXiv:2406.12617](https://arxiv.org/abs/2406.12617).
 
  [9] <a href="https://doi.org/10.1016/j.jalgebra.2025.03.012">Dualities in the theory of accessible categories</a>, <br>
        *Journal of Algebra*, 674:29-49, 2025; also available as [arXiv:2302.06273](https://arxiv.org/abs/2302.06273).
