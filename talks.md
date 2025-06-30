@@ -17,6 +17,7 @@ title: "Talks & notes"
 * [*Enriched purity: towards enriched model theory*](/pdfs/PSSL108.pdf) - PSSL108, Palermo (Italy), 16-17 September 2023.
 * [*On continuity of functors between locally presentable categories*](/pdfs/ItaCa2023.pdf) - ItaCa Workshop 2023, Università di Torino (Italy), 18-19 December 2023.
 * [*Enriched universal algebra*](/pdfs/BMC2024.pdf) - 75th British Mathematical Colloqium, University of Manchester (UK), 17-20 June 2024.
+* [*Towards enriched universal algebra*](https://www.usc.gal/regaca/ct2024/programme.html) - CT2024, University of Santiago de Compostela (Spain)  23-29 June 2024 ([video](https://www.youtube.com/watch?v=p6pHNv9qMLc&list=PLu4STGsfbix_crbQKOisU3tULDxmVLKl5&index=52&ab_channel=ArchiveTrustforResearch)).
 * [*Regular theories from the enriched point of view*](https://progetto-itaca.github.io/fests/fest24.html#tendas) - ItaCa Fest (online), 22 October 2024 ([video](https://www.youtube.com/watch?v=JhZRQejZxEU)).
   
 **Local talks**
