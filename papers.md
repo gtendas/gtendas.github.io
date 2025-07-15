@@ -39,7 +39,7 @@ title: "Publications"
 **Preprints**
 
  [3] On enriched terms and 2-categorical universal algebra, <br>
-       *preprint*, 2025; available as [arXiv:](https://arxiv.org/abs/).
+       *preprint*, 2025; available as [arXiv:2507.09946](https://arxiv.org/abs/2507.09946).
 
  [2] More on soundness in the enriched context, <br>
        *submitted*, 2024; available as [arXiv:2409.00389](https://arxiv.org/abs/2409.00389).
