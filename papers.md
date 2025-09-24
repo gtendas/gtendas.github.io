@@ -41,8 +41,11 @@ title: "Publications"
 
 **Preprints**
 
+ [3] Enriched positive logic (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
+       *preprint*, 2025; available as [arXiv:](https://arxiv.org/abs/).
+
  [2] On enriched terms and 2-categorical universal algebra, <br>
-       *preprint*, 2025; available as [arXiv:2507.09946](https://arxiv.org/abs/2507.09946).
+       *submitted*, 2025; available as [arXiv:2507.09946](https://arxiv.org/abs/2507.09946).
 
  [1] Towards enriched universal algebra (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
        *submitted*, 2023; available as [arXiv:2310.11972](https://arxiv.org/abs/2310.11972).
