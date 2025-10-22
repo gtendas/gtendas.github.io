@@ -4,8 +4,8 @@ tags: [formatting]
 title: "Publications"
 
 ---
-[11] More on soundness in the enriched context, <br>
-       *Journal of Pure and Applied Algebra*, to appear, 2025; available as [arXiv:2409.00389](https://arxiv.org/abs/2409.00389).
+[11] <a href="https://doi.org/10.1016/j.jpaa.2025.108110">More on soundness in the enriched context</a>, <br>
+       *Journal of Pure and Applied Algebra*, in print, 2025; also available as [arXiv:2409.00389](https://arxiv.org/abs/2409.00389).
 
 [10] <a href="https://doi.org/10.1017/jsl.2024.83">Enriched concepts of regular logic</a> (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
        *Journal of Symbolic Logic*, in print, 2025; also available as [arXiv:2406.12617](https://arxiv.org/abs/2406.12617).
