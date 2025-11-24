@@ -4,11 +4,14 @@ tags: [formatting]
 title: "Publications"
 
 ---
-[11] <a href="https://doi.org/10.1016/j.jpaa.2025.108110">More on soundness in the enriched context</a>, <br>
-       *Journal of Pure and Applied Algebra*, 229(11):108110, 2025; also available as [arXiv:2409.00389](https://arxiv.org/abs/2409.00389).
-
-[10] <a href="https://doi.org/10.1017/jsl.2024.83">Enriched concepts of regular logic</a> (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
+[12] Towards enriched universal algebra (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
+       *Selecta Mathematica*, in print, 2025; available as [arXiv:2310.11972](https://arxiv.org/abs/2310.11972).
+       
+[11] <a href="https://doi.org/10.1017/jsl.2024.83">Enriched concepts of regular logic</a> (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
        *Journal of Symbolic Logic*, in print, 2025; also available as [arXiv:2406.12617](https://arxiv.org/abs/2406.12617).
+
+[10] <a href="https://doi.org/10.1016/j.jpaa.2025.108110">More on soundness in the enriched context</a>, <br>
+       *Journal of Pure and Applied Algebra*, 229(11):108110, 2025; also available as [arXiv:2409.00389](https://arxiv.org/abs/2409.00389).
 
  [9] <a href="https://doi.org/10.1016/j.jalgebra.2025.03.012">Dualities in the theory of accessible categories</a>, <br>
        *Journal of Algebra*, 674:29-49, 2025; also available as [arXiv:2302.06273](https://arxiv.org/abs/2302.06273).
@@ -41,13 +44,10 @@ title: "Publications"
 
 **Preprints**
 
- [3] Enriched positive logic (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
+ [2] Enriched positive logic (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
        *preprint*, 2025; available as [arXiv:2509.20019](https://arxiv.org/abs/2509.20019).
 
- [2] On enriched terms and 2-categorical universal algebra, <br>
+ [1] On enriched terms and 2-categorical universal algebra, <br>
        *submitted*, 2025; available as [arXiv:2507.09946](https://arxiv.org/abs/2507.09946).
-
- [1] Towards enriched universal algebra (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
-       *submitted*, 2023; available as [arXiv:2310.11972](https://arxiv.org/abs/2310.11972).
 
 
