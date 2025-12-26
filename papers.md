@@ -44,13 +44,13 @@ title: "Publications"
 
 **Preprints**
 
- [2] Canonical differential calculi via functorial geometrization (with Keegan J. Flood and <a href="https://globbia.github.io/">Gabriele Lobbia</a>), <br>
+ [3] Canonical differential calculi via functorial geometrization (with Keegan J. Flood and <a href="https://globbia.github.io/">Gabriele Lobbia</a>), <br>
        *preprint*, 2025; available as [arXiv:2512.20742](https://arxiv.org/abs/2512.20742).
 
  [2] Enriched positive logic (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
        *preprint*, 2025; available as [arXiv:2509.20019](https://arxiv.org/abs/2509.20019).
 
  [1] On enriched terms and 2-categorical universal algebra, <br>
-       *submitted*, 2025; available as [arXiv:2507.09946](https://arxiv.org/abs/2507.09946).
+       *preprint*, 2025; available as [arXiv:2507.09946](https://arxiv.org/abs/2507.09946).
 
 
