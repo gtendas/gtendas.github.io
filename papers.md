@@ -5,7 +5,7 @@ title: "Publications"
 
 ---
 [12] <a href="https://doi.org/10.1007/s00029-026-01129-x">Towards enriched universal algebra</a>  (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
-       *Selecta Mathematica, New Series*, 32:21, 2026; also available as [arXiv:2310.11972](https://arxiv.org/abs/2310.11972).
+       *Selecta Mathematica New Series*, 32:21, 2026; also available as [arXiv:2310.11972](https://arxiv.org/abs/2310.11972).
        
 [11] <a href="https://doi.org/10.1017/jsl.2024.83">Enriched concepts of regular logic</a> (with <a href="http://www.math.muni.cz/~rosicky/" style="color:lightblue">Jiří Rosický</a>), <br>
        *Journal of Symbolic Logic*, in print, 2025; also available as [arXiv:2406.12617](https://arxiv.org/abs/2406.12617).
