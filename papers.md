@@ -45,7 +45,7 @@ title: "Publications"
 **Preprints**
 
  [4] Isoregular theories, accessible 2-categories, and free constructions (with <a href="https://personalpages.manchester.ac.uk/staff/nicola.gambino/" style="color:lightblue">Nicola Gambino</a>), <br>
-       *preprint*, 2025; available as [arXiv:2512.20742](https://arxiv.org/abs/2512.20742).
+       *preprint*, 2025; available as [arXiv:](https://arxiv.org/abs/).
 
  [3] Canonical differential calculi via functorial geometrization (with Keegan J. Flood and <a href="https://globbia.github.io/" style="color:lightblue">Gabriele Lobbia</a>), <br>
        *preprint*, 2025; available as [arXiv:2512.20742](https://arxiv.org/abs/2512.20742).
