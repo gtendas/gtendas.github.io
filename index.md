@@ -4,7 +4,7 @@ tags: [formatting]
 title: "About me"
 ---
 
-<a><img src="http://gtendas.github.io/assets/foto.jpg" align="right" width="230"  style="margin-left: 20px" ></a>
+<a><img src="http://gtendas.github.io/assets/foto.jpg" align="right" width="430"  style="margin-left: 20px" ></a>
 
 
 I currently hold a Postdoc position at the [University of Manchester](https://www.maths.manchester.ac.uk/) under an EPSRC postdoctoral fellowship. I'm part of the group led by <a href="https://personalpages.manchester.ac.uk/staff/nicola.gambino/">Nicola Gambino</a> where you can also find his PhD students <a href="https://calum-hughes.github.io/">Calum Hughes</a>, <a href="https://bpl28.user.srcf.net/">Bruno Lindan</a>, and <a href="https://sites.google.com/view/ngo-hang-chan/home">Ngo Hang-Chan</a> (see <a href="https://manchester-ct.github.io/index.html">The University of Manchester Category Theory Group</a>).
