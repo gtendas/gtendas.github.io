@@ -44,6 +44,9 @@ title: "Publications"
 
 **Preprints**
 
+ [5] The compactness theorem for enriched logic (with <a href="https://markkamsma.nl/" style="color:lightblue">Mark Kamsma</a>), <br>
+       *preprint*, 2026; available as [arXiv:2610.23278](https://arxiv.org/abs/2610.23278).
+
  [4] Isoregular theories, accessible 2-categories, and free constructions (with <a href="https://personalpages.manchester.ac.uk/staff/nicola.gambino/" style="color:lightblue">Nicola Gambino</a>), <br>
        *preprint*, 2026; available as [arXiv:2606.26717](https://arxiv.org/abs/2606.26717).
 
